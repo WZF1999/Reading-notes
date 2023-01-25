@@ -1,4 +1,5 @@
 # Science-of-Logic
+
 ## Pure Thought 纯思：纯有(pure being) 与/或 纯无(nothinig)
 纯思: 纯粹抽象，无规定性，直接的，无中介的，开端，绝对否定『否定什么呢?』
 
@@ -38,6 +39,6 @@
 - the one-sided immediate unity of these moments, is existence
 
 ## Existence
-# existence as such: Quality
-# something and other, finitude
-# qualitative infinity
+### existence as such: Quality
+### something and other, finitude
+### qualitative infinity
