@@ -27,10 +27,17 @@
 - 是unity内在包含difference的unrest 是unity内在关于difference的不断自我否定 是无规定性的有规定性之悸动
 - 有 与 无 两者的不断sublation and transition，是distinction is之后的立即扬弃,因而变为distinction is not
 - 并非外在的扬弃而是内在的扬弃，each is within it the opposite of itself. ceasing-to-be & coming-to-be虽为becoming的两个方向，但因为这种内在否定性，这两个方向是彼此纠缠的
-- first concrete determination of thought
+- first concrete determination of thought: 因为其包含自身的否定，即这个变的运动内部包含了不变
 - 有无 在变中消失，因而 变 也随之消失： 变的运动是将其本身否定的过程
 - ceaseless restless collapse into a quiescent result
 
-关于 变 的内在自我否定：
+关于 变 的内在自我否定：.
+- 变 建立于being与nothing的distinction上，在变的过程中，两者作为对方扬弃自身的结果，in general成为了vanishing moments，distinction也被消解.
+- 这就导致了vanishedness as the result, 是being和nothing静止的统一, 这个统一作为一个 全 就有了规定性，因为其内在有被扬弃了的transition
+- becoming作为被扬弃的环节，就成了existence的中介
+- the one-sided immediate unity of these moments, is existence
 
-
+## Existence
+# existence as such: Quality
+# something and other, finitude
+# qualitative infinity
