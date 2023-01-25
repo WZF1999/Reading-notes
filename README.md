@@ -39,7 +39,7 @@
 - the one-sided immediate unity of these moments, is existence
 
 ## Existence
-错误的辩证法会将变的扬弃其result看为虚无，pure nothing。 因此coming-to-be and ceasing-to-be 会被误解为 1. 因为其内部矛盾不能存在(as pure nothing) 2. 有一个 absolute One 既不coming-to-be 又不 ceasing-to-be（as negation of pure nothing/pure being）
+错误的辩证法会将变的扬弃, 即其result，看为虚无, as pure nothing。 因此coming-to-be and ceasing-to-be 会被误解为 1. 因为其内部矛盾不能存在(as pure nothing) 2. 有一个 absolute One 既不coming-to-be 又不 ceasing-to-be（as negation of pure nothing/pure being）
 
 但是其result应为nothing that contains being/being that contains nothing， 亦即 Existence
 
