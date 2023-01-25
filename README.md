@@ -1,13 +1,16 @@
 # Science-of-Logic
 ## Pure Thought 纯思：纯有(pure being) 与/或 纯无(nothinig)
-纯思是 纯粹抽象，无规定性，直接的，无中介的，开端，绝对否定『否定什么呢?』
+纯思: 纯粹抽象，无规定性，直接的，无中介的，开端，绝对否定『否定什么呢?』
 
 纯有：纯思 There is nothing to be intuited or in it
 
 纯无：纯思**本身** *Nothing* is being intuited
 
 关于纯有与纯无的统一：
-- 纯有与纯无的统一并非 1. 两者皆 under thought 2. 再退一步，两者皆 under abstract thought 3. 再退，两者皆 under undetermined thought
+- 纯有与纯无的统一并非
+  1. 两者皆 under thought 
+  2. 再退一步，两者皆 under abstract thought  
+  3. 再退，两者皆 under undetermined thought
 - 上述的三点中，第三点是最接近的，但是under这个词就已经给予其规定了，所以不对。纯有，纯无就是undetermined thought，无规定性的纯思，正是因为无规定性，所以两者无法distinguishable from each other. 当然这里第三点也可以说是对的，因为其规定性就是无规定性，无规定性成为了其唯一的规定。但是并不是说他们的ground是无规定性所以无规定性把它们统摄起来了。这里是没有ground的，两者每次要因为无规定性生成ground就立即被打破了，所以第三点可以说是one-sided的描述。这个打破和建立的运动可以说就进入becoming了。
 
 关于纯有与纯思的差别：
