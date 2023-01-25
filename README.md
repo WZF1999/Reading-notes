@@ -11,7 +11,7 @@
   1. 两者皆 under thought 
   2. 再退一步，两者皆 under abstract thought  
   3. 再退，两者皆 under undetermined thought
-- 上述的三点中，第三点是最接近的，但是under这个词就已经给予其规定了，所以不对。纯有，纯无就是undetermined thought，无规定性的纯思，正是因为无规定性，所以两者无法distinguishable from each other. 当然这里第三点也可以说是对的，因为其规定性就是无规定性，无规定性成为了其唯一的规定。但是并不是说他们的ground是无规定性所以无规定性把它们统摄起来了。这里是没有ground的，两者每次要因为无规定性生成ground就立即被打破了，所以第三点可以说是one-sided的描述。这个打破和建立的运动可以说就进入becoming了。
+- 上述的三点中，第三点是最接近的，但是under这个词就已经给予其规定了，所以不对。纯有，纯无就是undetermined thought，无规定性的纯思，正是因为无规定性，所以两者无法distinguishable from each other. 当然这里第三点也可以说是对的，因为其规定性就是无规定性，无规定性成为了其唯一的规定。但是并不是说他们的ground是无规定性所以无规定性把它们统摄起来了。这里是没有ground的，两者每次要因为无规定性生成ground就立即被自己的无规定性打破，所以第三点可以说是one-sided的描述。这个打破和建立的运动可以说就进入becoming了。
 
 关于纯有与纯思的差别：
 - 直接性方面: 预先没有差别，其两者之间的距离是生成出来的，是一个回溯性的“反觉”，作为一个虚位以待的纯思，是无差别的
