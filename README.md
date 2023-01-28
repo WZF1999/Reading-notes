@@ -56,9 +56,15 @@ Determinateness thus isolated by itself, as existent determinateness, is **quali
 
 关于Quality的不同聚焦:
 
-- Reality: Quality in the distinct value of existent. As quality with the accent on being an existent. 其否定的规定性是concealed. Reality has the value of something positive. 指那个显露在外的somewhat(那个)，那些negating, restriction, lack are excluded. 
-- Nothing: Quality in the distinct value of negation
+- Reality: Quality in the distinct value of existent. As quality with the accent on being an existent. 其否定的规定性是concealed. 或者说 It contains the moment of the negative. Reality has the value of something positive. 指那个显露在外的somewhat(那个)，那些negating, restriction, lack are excluded. 
+- Negation: Quality in the distinct value of negating. 通过non-being来determine的existence
 
+对speculative philosophy来说：negation并不是那个ultimate，而reality也不是那个truth
+
+Positive is reality reflecting upon negation--the reality in which the nagative, still hiding iin reality as such, shines forth.肯定性就是被遮掩的否定性闪光的reality
+
+关于Quality的内在运动与他者性：
+- Quality中就带有他者性。因为规定性就是somewhat在与他者的对立中仍然保持自身，而在这个过程自身的规定性同时impose in the other. 所以Quality的内在运动是referring to others。in its negative nature the quality posits itself.在指向他者时securing itself. 在这种conflict中不断生成并且保留自身就是in general the internal unrest of quality.
 
 ### something and other, finitude
 ### qualitative infinity
