@@ -54,12 +54,10 @@ Existence is at first one-sided determinate being. 这里的one-sided应该是�
 
 Determinateness thus isolated by itself, as existent determinateness, is **quality**. 为什么说Determinateness把自己孤立起来？相对于什么东西把自己和它隔开来了呢？应该是这个unity的反面就是non-unity. 现在直观聚焦在这个unity上，其外部轮廓封闭，作为simple unity as such，所以是determinate being. 
 
-关于Quality的不同聚焦
+关于Quality的不同聚焦:
 
-Reality: Quality in the distinct value of existent. As quality with the accent on being an existent. 其否定的规定性是concealed. Reality has the value of something positive. 指那个显露在外的somewhat(那个)，那些negating, restriction, lack are excluded. 
-
-
-Nothing: Quality in the distinct value of negation
+- Reality: Quality in the distinct value of existent. As quality with the accent on being an existent. 其否定的规定性是concealed. Reality has the value of something positive. 指那个显露在外的somewhat(那个)，那些negating, restriction, lack are excluded. 
+- Nothing: Quality in the distinct value of negation
 
 
 ### something and other, finitude
