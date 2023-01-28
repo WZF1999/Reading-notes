@@ -32,7 +32,7 @@
 - 有无 在变中消失，因而 变 也随之消失： 变的运动是将其本身否定的过程
 - ceaseless restless collapse into a quiescent result
 
-关于 变 的内在自我否定：.
+关于 变 的内在自我否定：
 - 变 建立于being与nothing的distinction上，在变的过程中，两者作为对方扬弃自身的结果，in general成为了vanishing moments，distinction也被消解.
 - 这就导致了vanishedness as the result, 是being和nothing静止的统一, 这个统一作为一个 全 就有了规定性，因为其内在有被扬弃了的transition
 - becoming作为被扬弃的环节，就成了existence的中介
@@ -43,6 +43,24 @@
 
 但是其result应为nothing that contains being/being that contains nothing， 亦即 Existence
 
-### existence as such: Quality
+Existence is at first one-sided determinate being. 这里的one-sided应该是作为一个whole, the unity of being and nothing的单面性. 其统一性的one-sideness implictly排除了otherness. 这种one-sidedness现在来自于我们的外部反思, 之后will become explicitly posited in negation, in something and other.
+
+其直接规定性就是扬弃了becoming的这种有, Dasein。 其自身中包含了被扬弃的之前环节, 即nothiing.
+
+
+### Quality
+
+现在Being的规定性就是作为one of the immediate unity of being & nothing. No differentiation between the two is posited
+
+Determinateness thus isolated by itself, as existent determinateness, is **quality**. 为什么说Determinateness把自己孤立起来？相对于什么东西把自己和它隔开来了呢？应该是这个unity的反面就是non-unity. 现在直观聚焦在这个unity上，其外部轮廓封闭，作为simple unity as such，所以是determinate being. 
+
+关于Quality的不同聚焦
+
+Reality: Quality in the distinct value of existent. As quality with the accent on being an existent. 其否定的规定性是concealed. Reality has the value of something positive. 指那个显露在外的somewhat(那个)，那些negating, restriction, lack are excluded. 
+
+
+Nothing: Quality in the distinct value of negation
+
+
 ### something and other, finitude
 ### qualitative infinity
