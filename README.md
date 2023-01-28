@@ -61,10 +61,18 @@ Determinateness thus isolated by itself, as existent determinateness, is **quali
 
 对speculative philosophy来说：negation并不是那个ultimate，而reality也不是那个truth
 
-Positive is reality reflecting upon negation--the reality in which the nagative, still hiding iin reality as such, shines forth.肯定性就是被遮掩的否定性闪光的reality
+Positive is reality reflecting upon negation--the reality in which the nagative, still hiding in reality as such, shines forth.肯定性就是被遮掩的否定性闪光的reality
 
 关于Quality的内在运动与他者性：
 - Quality中就带有他者性。因为规定性就是somewhat在与他者的对立中仍然保持自身，而在这个过程自身的规定性同时impose in the other. 所以Quality的内在运动是referring to others。in its negative nature the quality posits itself.在指向他者时securing itself. 在这种conflict中不断生成并且保留自身就是in general the internal unrest of quality.
 
-### something and other, finitude
+### Something and other, finitude
+Quality就是那个直接拿到手的Existence. 在其中我们有reality和negation的distinction. 但其实这些distinction是已经扬弃掉了的distinction.为什么呢，因为reality要作为existence，或者negation要作为existence, 都是具有规定性的，因而自身都包含他者。这种自身包含他者，即扬弃了内在distinction的existence（不代表distinction就没了，扬弃掉只是一起带着否定的distinctioin进入下一个环节)，既是**being-in-itself**, **an existent**, **something**
+
+关于为什么之前是existence而现在用形容词existent对其描述
+- 因为这是Existence的一个自我reflection. Existence qua reflected into itself in this its determinacy is an existent, something. 也就是说这是自己描述自己的过程。自己通过自己的规定达到现在的阶段,用自身作中介,那么就可以用自己描述自己(mediated through the sublation of the distinction), 也就是**again** self-equal
+
+关于Something作为existence的重新自我等同，negation of negation
+
+
 ### qualitative infinity
