@@ -72,7 +72,13 @@ Quality就是那个直接拿到手的Existence. 在其中我们有reality和nega
 关于为什么之前是existence而现在用形容词existent对其描述
 - 因为这是Existence的一个自我reflection. Existence qua reflected into itself in this its determinacy is an existent, something. 也就是说这是自己描述自己的过程。自己通过自己的规定达到现在的阶段,用自身作中介,那么就可以用自己描述自己(mediated through the sublation of the distinction), 也就是**again** self-equal
 
-关于Something作为existence的重新自我等同，negation of negation
+关于Something作为existence的**重新/再一次**自我等同，negation of negation
+- Something就是existence的simple self-reference. It in-itselfness is still quite indeterminate (quite abstract).
+- negation of *negation*: 第二个*negation*: negation in general, abstract negativity
+- *negtation* of negatioin: 第一个*negation*: absolute negativity
+- 说白了就是自身不在是处于 *自身* vs 他者， 而变成了 *他者的他者* vs 他者，通过自身进行了一个中介，返回到了原初自身，是自身的省察
 
+关于something和becoming
+- something is in itself also becoming. 但是becoming这里的being/nothing的环节现在成为了existence or further as an existent/something/an other. 作为becoming的something就是transition, 是作为concrete becoming, moments是concrete being/nothing as existent,因此这些moments的transition就是alteration。也就是something其作为becoming的内在还是有“变”，但是是具体的变，具体是什么意思？是因为其变的环节都是具有规定性了吗？变的方式就是通过mediated&mediating，即自身作为中介，以及自身作为中介完了的结果。这里变的开始只是一个maintaining itself simply in its reference to itself + 其反面也是作为其quality/as other 的一个状态.
 
 ### qualitative infinity
