@@ -67,12 +67,12 @@ Positive is reality reflecting upon negation--the reality in which the nagative,
 - Quality中就带有他者性。因为规定性就是somewhat在与他者的对立中仍然保持自身，而在这个过程自身的规定性同时impose in the other. 所以Quality的内在运动是referring to others。in its negative nature the quality posits itself.在指向他者时securing itself. 在这种conflict中不断生成并且保留自身就是in general the internal unrest of quality.
 
 ### Something and other, finitude
-Quality就是那个直接拿到手的Existence. 在其中我们有reality和negation的distinction. 但其实这些distinction是已经扬弃掉了的distinction.为什么呢，因为reality要作为existence，或者negation要作为existence, 都是具有规定性的，因而自身都包含他者。这种自身包含他者，即扬弃了内在distinction的existence（不代表distinction就没了，扬弃掉只是一起带着否定的distinctioin进入下一个环节)，既是**being-in-itself**, **an existent**, **something**
+Quality就是那个直接拿到手的Existence. 在其中我们有reality和negation的distinction. 但其实这些distinction是已经扬弃掉了的distinction.为什么呢，因为reality要作为existence，或者negation要作为existence, 都是具有规定性的，因而自身都包含他者。这种自身包含他者，即扬弃了内在distinction的existence（不代表distinction就没了，扬弃掉只是一起带着否定的distinctioin进入下一个环节)，即为**being-in-itself**, **an existent**, **something**
 
 关于为什么之前是existence而现在用形容词existent对其描述
 - 因为这是Existence的一个自我reflection. Existence qua reflected into itself in this its determinacy is an existent, something. 也就是说这是自己描述自己的过程。自己通过自己的规定达到现在的阶段,用自身作中介,那么就可以用自己描述自己(mediated through the sublation of the distinction), 也就是**again** self-equal
 
-关于Something作为existence的**重新/再一次**自我等同，negation of negation
+关于something作为existence的**重新/再一次**自我等同，negation of negation
 - Something就是existence的simple self-reference. It in-itselfness is still quite indeterminate (quite abstract).
 - negation of *negation*: 第二个*negation*: negation in general, abstract negativity
 - *negtation* of negatioin: 第一个*negation*: absolute negativity
@@ -81,4 +81,17 @@ Quality就是那个直接拿到手的Existence. 在其中我们有reality和nega
 关于something和becoming
 - something is in itself also becoming. 但是becoming这里的being/nothing的环节现在成为了existence or further as an existent/something/an other. 作为becoming的something就是transition, 是作为concrete becoming, moments是concrete being/nothing as existent,因此这些moments的transition就是alteration。也就是something其作为becoming的内在还是有“变”，但是是具体的变，具体是什么意思？是因为其变的环节都是具有规定性了吗？变的方式就是通过mediated&mediating，即自身作为中介，以及自身作为中介完了的结果。这里变的开始只是一个maintaining itself simply in its reference to itself + 其反面也是作为其quality/as other 的一个状态.
 
+关于拥有limit规定的something: finite
+- 最开始的时候something与other是indifferent的，both as an immediate existent, being-in-itself 与 being-for-other是并列，无关的。但是being-in-itself就是negated being-for-another.两面的规定性杂糅成了being-in-itself作为negated being-for-another的规定，也就是something的immanent determination as limit of something. 而something此时就是finite
+
+关于something and an other:
+- 两者都是作为something, 或者existents, 只是有一个“当前聚焦”和“其他”之间的区分，即 这 与 非这 的区分。而当聚焦到 非这 的时候，非这 又是一个 这。两者又同时为对方的 非这。两者之间没有优先性。“这”的优先性也只是主体聚焦的优先性，和something本身无关, 是其外在由主体附加的优先性。
+- *Both are determined as something as well as other. 因而same/no distinction.但这种相同性是通过我们的外部反思，在比较了两者之后得到的？对于最初的other来说，对其自身来说就是外在于something的other????????????* 
+- 关于other的两层含义：第一层是something & other，简单的聚焦问题。第二层则是itself本身的他者，不是关于聚焦到something之后的other。第一层的other只是一个相对性的描述，和something无异，只是naming问题，是作为external reference。第二层则是which-exists-outside-itself（但这个说法已经加了各种时间空间的规定性了）, 而因此关于两方外在转到内在的运动，可以说就是这个相对的other就是其内在的他者. The other which is such for itself is the other within it, hence the other of itself and so the other of the other – therefore, the absolutely unequal in itself, that which negates itself, alters itself
+- other因为内部的否定所以要成为他者的这种alteration。通过对于otherness的扬弃，其便posited as reflected into itself.从而生成了一个自我同一的something，因而与他者有查了distinctioin：A self-identical something from which the otherness, which is at the same time a moment of it, is therefore distinct, itself not appertaining to it as something.
+- **being-for-other**: Something在与他者的指射中preserves itself in its non-being. 在otherness中转了一圈保留了自我的状态即是**being-for-other**. The otherness is at once contained in it and yet separated from it; it is being-for-other. 在其inequality中达成equality。要是聚焦到其ineqality那一位面那就是being-for-other
+- **being-in-itself**: 聚焦在self-equality中那就是being-in-itself.两者都是用来描述现在这个including non-being within itself while at the same time preserves itself的existence as determinate being.与先前环节的Existence as such as an immediate, bare of references对比.
+
+关于something and other 到 being-for-other and being-in-itself:
+- something and other 是直接的环节，分离的状态。而bfo&bii则是两方的运动。是通过他者（即自身）反射回来之后的第二次，非直接的自我等同状态
 ### qualitative infinity
