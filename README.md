@@ -89,9 +89,55 @@ Quality就是那个直接拿到手的Existence. 在其中我们有reality和nega
 - *Both are determined as something as well as other. 因而same/no distinction.但这种相同性是通过我们的外部反思，在比较了两者之后得到的？对于最初的other来说，对其自身来说就是外在于something的other????????????* 
 - 关于other的两层含义：第一层是something & other，简单的聚焦问题。第二层则是itself本身的他者，不是关于聚焦到something之后的other。第一层的other只是一个相对性的描述，和something无异，只是naming问题，是作为external reference。第二层则是which-exists-outside-itself（但这个说法已经加了各种时间空间的规定性了）, 而因此关于两方外在转到内在的运动，可以说就是这个相对的other就是其内在的他者. The other which is such for itself is the other within it, hence the other of itself and so the other of the other – therefore, the absolutely unequal in itself, that which negates itself, alters itself
 - other因为内部的否定所以要成为他者的这种alteration。通过对于otherness的扬弃，其便posited as reflected into itself.从而生成了一个自我同一的something，因而与他者有查了distinctioin：A self-identical something from which the otherness, which is at the same time a moment of it, is therefore distinct, itself not appertaining to it as something.
-- **being-for-other**: Something在与他者的指射中preserves itself in its non-being. 在otherness中转了一圈保留了自我的状态即是**being-for-other**. The otherness is at once contained in it and yet separated from it; it is being-for-other. 在其inequality中达成equality。要是聚焦到其ineqality那一位面那就是being-for-other
+- **being-for-other**: Something在与他者的指射中preserves itself in its non-being. 在otherness中转了一圈保留了自我的状态即是**being-for-other**. The otherness is at once contained in it and yet separated from it; it is being-for-other. 在其inequality中达成equality。要是聚焦到其ineqality那一位面那就是being-for-other. 是作为反射之后自我等同的negation(这个自我等同亦即something/existent)，是靠他者进行自我等同的自我缺失性，是自身中的他者性。
 - **being-in-itself**: 聚焦在self-equality中那就是being-in-itself.两者都是用来描述现在这个including non-being within itself while at the same time preserves itself的existence as determinate being.与先前环节的Existence as such as an immediate, bare of references对比.
+- **otherness的外在性作为something的内在性**：The externality of the otherness is 1.within something's own inwardness 2. remains  as otherness distinguished from something
 
 关于something and other 到 being-for-other and being-in-itself:
 - something and other 是直接的环节，分离的状态。而bfo&bii则是两方的运动。是通过他者（即自身）反射回来之后的第二次，非直接的自我等同状态
+
+关于being-in-itself与being-for-other的identity：
+- 是作为something is itself one and the same something of both moments，说白了就是之前说的，两者都是被包含在现在这个including non-being within itself while at the same time preserves itself的existence as determinate being的moments罢了
+
+关于物自体thing-in-itself:
+- What is thing-in-itself？ what在寻求规定，thing-in-itself本身无规定，这是个没有答案的问题。What is *in* the thing itself——是empty abstraction，自己yy出来的. 但我们已经有了what the thing-in-itself in truth is. 也就是something in its concept。也就是前面的各环节。
+
+关于in-itself:
+- The identity of something, in which the something is reflected into itself from its being- for-other, no longer is an abstract in-itself but, as the negation/sublation of its being-for-other,
+
+关于determination：in-itself在something各环节的统一
+- The quality which in the simple something is an in-itself essentially in unity with the something’s other moment, its being-in-it, can be named its **determination. 是in itself的present
+- determination vs determinateness: Determination is the affirmative determinateness. Determinateness就是规定的那根线，是更general的范畴。Determination则是线肯定的“那一侧”。并非肤浅的one-sideness。而是在另一侧的压力下同时作为另一侧的他者保持自身的一侧。
+
+关于something & its limit
+- limit is the non-being of both the something and the other. 是作为something和other的boundary.
+- The limit is the mediation in virtue of which something and other each both is and is not. 在limiting中，something作为something存在，作为non-being of the other存在. 
+- 因此something has its existence outside its limit. The limit is the middle point between the two at which they leave off. something 和 other 在limit这个点位上起飞了. 他们的存在是超越彼此的. 超越各自的non-being. 
+- They have existence beyond each other, beyond their limit; the limit, as the non-being of each, is the other of both.
+- 从直接性方面来看，something & other 作为immediate existence 都为 这 与 非这. something&other的相同之处：就是在limit中，各自与他者都区分开了，都各自显得distinct。 The unity &distinguiishedness of both.
+- **Existence & limit 的双重性：The double identity of the two, existence and limit**: 使得something在limit中才有自身existence. 但在limit中又作为他者的否定指向他者从而points beyond itself to its non-being and declares it to be its being, and so it passes over into it.
+  - 两个规定就出来了: 1. something is what it is only in its limit 2.the unrest of the something in its limit in which it is immanent, the contradiction that propels it beyond itself
+ 
+关于finitude
+- Finite(有限之物): The something, posited with its immanent limit as the contradiction of itself by virtue of which it is directed and driven out and beyond itself, is the finite. 是上述两个规定性的合，是something在limit中存在所引起的外部超越性与limit之间的矛盾下的something
+- 当说things are finite的时候，只是在说Their nature is their *non-being*. 因此从Finite的角度切入being，是从其否定的角度，non-being的角度，超越的角度切入————in this very negated self-reference, they propel themselves beyond themselves, beyond their being.
+- 因此有限之物的alteration，可以说是一种perish, the transgression in their in-itselfness.
+
+关于finitude的内在矛盾
+- 直接性上来看，finitude似乎是个很硬的概念，即绝对的end，似乎是对其他者，即infinite,的绝对切割。有限性使得non-being成为了things的determination，并且这个non-being是absolute & imperishable. 这种本身绝对unalterable的quality, as finitude，就显示了finitude 的*永恒性*. Finitude is eternal. 
+- 有限物作为the perishable, the restricted。若其被看做infinite的绝对对立，则其end就是nothing, abstract nothing. 但这个nothing不是其真正的ending. The perishing rather perishes.
+
+关于Restriction & ought to:
+- **Restriction**: limit作为something的否定被其起身设立同时又是作为something(self-reference)的本质
+- **ought**: Restriction作为negation与其的in-itself就是ought. 如果restriction切了一条线，那么negation的那一面是limit (posited as negated); 另一面则是, the determinateness of the in-itself of determination as such. 那个negative reference to its limit的in-itself就是ought. finite也就连接determination(ought) 与 limit(restriction).
+  - limit作为something的restriction, something得要认limit为自己的non-being, 因而内在构成了自己的规定。所以something必须有个朝外的认的这么一个指向，这一个朝外的指向就在内部构成了其超越性（通过restriction）
+  - ought的两面规定：1. in-itselfness over against negation 2.因为指射了non-being从而就是：non-being, as restriction, is distinguished from the determination but at the same time itself a determination existing in itself.
+  - 因此否定关系作为limit，作为restriction，something必然会refer to it from within as to a non-existent. 也就transcend it in-itself
+  - what ought to be is 同时也 is not. 因为它相当于和restriction粘在一起。从ought 和 restriction两个角度来看，一方面something具有内在的超越性，一方面又有其否定作为其restriction
+  - The “ought” is nothing special. It defines explicitly the true relation that obtains between any subject and its predicate. The subject is its predicate while at the same time being distinguished from it. The relation between the two is therefore always one of identity but at a distance. The predicate is what the subject is “destined” or “said” to be. 
+
+关于 restriction & ought 的辩证:
+- 当restriction被规定的时候something is already transcended. 那为什么一块石头不打破它的restriction变成一只小鸟呢？因为那个restriction不是石头的restriction.
+
+
 ### qualitative infinity
