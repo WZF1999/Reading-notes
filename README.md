@@ -188,3 +188,20 @@ Ideality
 
 
 ## Being-for-itself
+**复习**
+Being of the beginning: 缺乏规定
+
+Existence: Immediately sublated being. 只有单一的否定. Unity as simple unity and not yet *posited*. Existence is the sphere of differentiation, of dualism. Being is *relatively*, not absolutely*, determined.
+
+Being-for-itself: The simple negation has passed over into its negation. Negation is simple self-reference. 有限的否定变为了绝对的，无限的否定。在其之中，达到 the equalization with being——absolutely determinate being.
+
+### Being-for-itself as existent-for-itself, *the one*
+
+
+
+
+
+### *Repulsion*: Multiplicity of ones & *Attraction*: The otherness of the one which sublates itself into its ideality
+
+
+### Alternating determination of repulsion and attraction in which the two sink into a state of equilibrium —— *quantity*
