@@ -18,9 +18,9 @@
 - 直接性方面: 预先没有差别，其两者之间的距离是生成出来的，是一个回溯性的“反觉”，作为一个虚位以待的纯思，是无差别的
 - 欲望方面：需要一个对象，舞台上空空如也，无戏可看，那就让这个无戏可看的事态变成一出戏，让“无”变成对象
 - 纯抽象性方面
-  1. 纯抽象的无区别，两者是没有立足点来生成区别的，区别的概念在这里可以说不成立。纯抽象的有区别就是无区别，是无规定的区别
+  1. 纯抽象的无区别，两者是没有立足点来生成区别的，区别的概念在这里因为没有立足点来比较可以说不成立。纯抽象的有区别就是无区别，是无规定的区别
   2. 两者的区分是潜在的（in itself)， 还未 posited explicitly. 都在种子里
-  3. 最重要的问题，又即对于第一点的拓展, 既然无区别，或者只有empty distinction, 为什么会“有”纯有和纯无两个方面：从纯抽象性方面看，同一与差异的indifference需要差异来说清。所以开端若要是真纯思，那么就必然有差异的统一，才能表现其纯抽象性。从反面看，假设开端只有一个纯抽象概念即 “纯思”， 则纯思本身的同一性必然分裂。如果不分裂就会是单面的同一，有规定的同一，没有差异的同一，或者说是差异在同一之外的同一。当然这里没有裂开，也无需裂开，因为如果说裂开仿佛差异是从同一生成的，换言之仿佛“无”是从“有”生成的。这里的开端是绝对的抽象性，有就是无，无就是有，差异就是同一，同一就是差异。开端不是由单面的同一开始的，“有”与“无”作为纯思有差异的统一展开，并且快速进入接下来的becoming。要说有任何差异，则那个最小的差异，使“有”与“无”被分开说的差异，是基于主体侧的差异，即觉知的反应差，是因为第三者, intention as form of subjectivity, 而产生的差异。并非其自身内在的差异。
+  3. 最重要的问题，又即对于第一点的拓展, 既然无区别，或者只有empty distinction, 为什么会“有”纯有和纯无两个方面：从纯抽象性方面看，同一与差异的indifference需要差异来说清。所以开端若要是真纯思，那么就必然有差异的统一，才能表现其纯抽象性。从如此操作的反面看，假设开端只有一个纯抽象概念即 “纯思”， 则纯思本身的同一性必然分裂。如果不分裂就会是单面的同一，有规定的同一，没有差异的同一，或者说是差异在同一之外的同一。当然这里没有裂开，也无需裂开，因为如果说裂开仿佛差异是从同一生成的，换言之仿佛“无”是从“有”生成的。这里的开端是绝对的抽象性，有就是无，无就是有，差异就是同一，同一就是差异。开端不是由单面的同一开始的，“有”与“无”作为纯思有差异的统一展开，并且快速进入接下来的becoming。要说有任何差异，则那个最小的差异，使“有”与“无”被分开说的差异，是基于主体侧的差异，即觉知的反应差，是因为第三者, intention as form of subjectivity, 而产生的差异。并非其自身内在的差异。
 
 ## Becoming
 “变”
@@ -45,7 +45,7 @@
 
 Existence is at first one-sided determinate being. 这里的one-sided应该是作为一个whole, the unity of being and nothing的单面性. 其统一性的one-sideness implictly排除了otherness. 这种one-sidedness现在来自于我们的外部反思, 之后will become explicitly posited in negation, in something and other.
 
-其直接规定性就是扬弃了becoming的这种有, Dasein。 其自身中包含了被扬弃的之前环节, 即nothiing.
+其直接规定性就是扬弃了becoming的 *这种*有, Dasein。 其自身中包含了被扬弃的之前环节, 即nothing.
 
 
 ### Quality
@@ -129,7 +129,7 @@ Quality就是那个直接拿到手的Existence. 在其中我们有reality和nega
 
 关于Restriction & ought to:
 - **Restriction**: limit作为something的否定被其起身设立同时又是作为something(self-reference)的本质
-- **ought**: Restriction作为negation与其的in-itself就是ought. 如果restriction切了一条线，那么negation的那一面是limit (posited as negated); 另一面则是, the determinateness of the in-itself of determination as such. 那个negative reference to its limit的in-itself就是ought. finite也就连接determination(ought) 与 limit(restriction).
+- **ought**: Restriction作为negation与相对立其的in-itself就是ought. 如果restriction切了一条线，那么negation的那一面是limit (posited as negated); 另一面则是, the determinateness of the in-itself of determination as such. 那个negative reference to its limit的in-itself就是ought. finite也就连接determination(ought) 与 limit(restriction).
   - limit作为something的restriction, something得要认limit为自己的non-being, 因而内在构成了自己的规定。所以something必须有个朝外的认的这么一个指向，这一个朝外的指向就在内部构成了其超越性（通过restriction）
   - ought的两面规定：1. in-itselfness over against negation 2.因为指射了non-being从而就是：non-being, as restriction, is distinguished from the determination but at the same time itself a determination existing in itself.
   - 因此否定关系作为limit，作为restriction，something必然会refer to it from within as to a non-existent. 也就transcend it in-itself
@@ -138,6 +138,53 @@ Quality就是那个直接拿到手的Existence. 在其中我们有reality和nega
 
 关于 restriction & ought 的辩证:
 - 当restriction被规定的时候something is already transcended. 那为什么一块石头不打破它的restriction变成一只小鸟呢？因为那个restriction不是石头的restriction.
+- ought本身确实是transcending of restriction. 但是is itself finite. It holds in-itself fixed over against what is restricted. Reason and law are not in such a sad state of affairs that they only ought to be (only the abstraction of the in-itself stays at this).
 
+关于由finite到infinite的transition
+- ought 和 restriction 作为finite的两个moment就形成了contradiction. Finite因而内在矛盾，从而扬弃自身，ceases to be. Finite has become momentariily an other finite —— infinity
+- ought & restriction 的合一，finite的rejoin. ought contains restriction & restriction contains ought
 
 ### qualitative infinity
+infinity of reason vs infinity of understanding (finitized infinity)
+
+直接的The infinite:
+- the affiirmative as negation of the finite
+- in alternating determination with the (true) infinite, is abstract one-sided infinite
+- the self-sublation of this infinite & finite in one process —— **true infinites**
+
+Finite comes to be *itself* the infinite:
+- elevation above restriction(主观上的，其实根本没above，它自己还是它自己), 或者说就算above也是靠finite自己的力量，并非外部力量。
+- negation of negation. Collapse of the contradiction. The finite transcend itself. It negate its negation and become infinite. 因为finite的nature 1.一个返回 refer it self to itself as 2. 正 restriction, both as restriction as such and 3. 反 as ought. 所以其超越了自身。我们可以看到这里是在一个self-reference中否定了自身，从而超越了自身, *become 成为*了infinite。并不是说finite没了，然后infinite就来了。
+
+关于finite 与 infinite的关系：无限的transcending 或是 The transcending which itself has not been transcended
+- The infinite is the existence reflected into itself which results from the mediating sublation of determinateness in general and is consequently posited as existence distinct from its determinateness. Infinite是通过finite扬弃自身为中介，重新返回自身，with finite seemly having vanished into the infinite.
+- Infinite作为finite的他者还是落入something & other的关系中。Infinite as non-being of an other, 自身还是作为一个something with a limit. 
+- Infinite的in-itself就是finite的ought to be. 但它是返回了自身的，因而realized ought, as affirmative(否定的否定) self-referring being.
+- 作为finite的realized beyond，infinite自身的规定还是空的，as an empty beyond. 单纯的作为finite的对立的infinite被这个negation的关系牢牢地和finite绑在一起。甚至不能说绑，因为绑感觉是外部的。The negation is rather the in-itselfness of each. 
+- The alternating determination of the finite & infinite: 坏的无限循环 as *so forth to infinity* has determination of emptiness, nothing：finite和infinite之间的无限自身消失与转换. The new limit of the infinite 似乎并不是从infinite中生成的，而是本来就有的. 这种作为unity of itself & its other就是定在啦。
+- 这种来回往复consititutes the external realization of the concept, 这个concept的内容is postied externally.这种关系仿佛是两者外在的关系。All that is needed is the comparing of these two different moments in which the unity is given which the concept itself gives
+
+关于the unity of the infinite & finite:
+- 两面各位一个infinite 与 finite 的unity. Each contains its other in its own determination, just as, when each is taken for itself, when looked at on its terms, each has the other present in it as its own moment. 所以infinite可以说是finitized infinite, 而finite则为infinitized finite
+- 两者的共同点，就是the negation of the negation，即the movement of returning to itself through its negation. Both are negated, equally transcended.然而从infinite回finite的时候虽然也是一个negation但还有对去程的纠正，亦即两者是无差别的，无需来往：Though at first still only as transition and alternation, is the *connectedness* of the terms being distinguished.
+- 1.finite 2.infinite 3.回finite 这样使得Finite rejoined itself, in its beyond has only found itself again. Infinite同理
+- 两者作为movement的moments就有了双面含义, 因为各自为一个finite & infinite的unity：
+  - finite就可以说成 1.第一次作为一个simple finite over against infinite 2. 回来以后being as infinite & finite against infinite. 也就是说itself & other都是作为finite的moments
+- 因此infinite的真相就是：在这个过程中将自己贬低作为第一个determination，作为finite的对立面显露出来。
+
+True infinity:在transition中，在他者中产生的自我练习就是无限，即成为他者的他者
+- bad infinite只是作为abstract first negation as beyond, 没有任何affirmation of existence. 只有ought not to be there 或者说 ought to be not there.
+- As *True infinite*, bent back upon itself, its image becomes the circle, the line that has reached itself, closed and wholly present, without beginning and end.
+- True infinity, as existence posited as *affirmative* in contrast to abstract negation, is *reality* in a higher sense. 之前的肯定是抽象的肯定，现在的肯定是否定的否定，具有concrete content，for it contains negation in general and consequently determinateness。这种作为实在的肯
+- 这个辩证运动本身：The finite is the sublation of itself; it holds its negation, the infinity, in itself: *unity* of the two. It is the movement beyond the finite into the infinite as the beyond of the finite: *separation* of the two. Infinity也一样
+
+Ideality
+- The quality of the infinite
+- Reality的否定，即Reality,作为abstract affirmation & abstract negation的否定，其对立面.
+- Negation is thus determined as ideality; the idealized is the finite as it is in the true infinite. 之前是将existence作为finite看待的。然而，现在the negation of finite existence, 将其作为一个moment
+- An idealization is on the one hand something concrete, a true existent, but, on the other hand, that its moments are no less idealizations, sublated in it
+- 对于Ideality, reality并非是与其简单的对立/平行关系。The concept of ideality consists expressly in being the *truth* of reality; **Reality posited as what it is in itself proves to be ideality**. Ideality has content only by being the ideality of something, as an existence that is determined as reality.
+
+
+
+## Being-for-itself
