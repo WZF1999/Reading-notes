@@ -1,4 +1,4 @@
-# Science-of-Logic
+# Quality
 
 ## Pure Thought 纯思：纯有(pure being) 与/或 纯无(nothinig)
 纯思: 纯粹抽象，无规定性，直接的，无中介的，开端，绝对否定『否定什么呢?』
@@ -195,13 +195,67 @@ Existence: Immediately sublated being. 只有单一的否定. Unity as simple un
 
 Being-for-itself: The simple negation has passed over into its negation. Negation is simple self-reference. 有限的否定变为了绝对的，无限的否定。在其之中，达到 the equalization with being——absolutely determinate being.
 
+Being-for-itself as such:
+- 他者在自身中是被扬弃的moments, 他者是作为trascended limitation
+- 无限的turning back into itself
+- through他者的negative relation being-reflected-within-itself
+- infinite determinacy，并非需要自他矛盾来限定的规定了
+
 ### Being-for-itself as existent-for-itself, *the one*
+infinite qualitative determinateness
+Being-for-one:
+- finite 与 infinite 的统一运动/or as an idealization
+- Being-for-self中没有他者作为自己的否定，因而就没有reference to an existence other than it. 任何他者都是自我超越了的一个环节.
+- refers itself to itself as to the sublated other, is therefore for-one
+- The posited unity of being and existence. 从being方面来看，通过self-reference作为absolute union of the reference to another and the reference to itself;从existence方面来看，从坏的无限（找不到规定的源头），进入self-determining. What shows itself to be present as distinct from the one is the one’s own self-determining.
 
+The one:
+- Being-for-itself is the simple unity of itself and its moments, of the being for-one
+- The self-reference itself of the sublating
+- 他者作为自身的limit被扬弃了，因而现在Being-for-self is the *totally abstract limit* of itself-the one
+- **构成 The one 这个概念的moments**: (1) negation in general; (2) two negations that are, therefore, (3) the same, (4) absolutely opposed; (5) self-reference, identity as such; (6) negative reference which is nonetheless self-reference
+- 1 说白了就是那个self-reference，就是之前的各个环节坍缩成了这个最简单的self-reference, 无限的自我设定，通过对他者的无限否定来形成自我指射
 
-
-
+The one within:
+- The one 作为否定的self-reference, 即通过对他者，对内在difference的不断扬弃从而自我指射, 是 infinite *self*-determininig
+- 不是existence, 因为existence拥有指射他者生成的规定。定在永远陷在一个自他矛盾当中。one的无规定性并非像being那样是抽象的无，而是因为只有它自己，是在恶的无限中，找不到自己的基础，因而自己成为自己的基础，坦坦荡荡说自己是一个无，是作为一个否定任何他者规定的自我规定。One就是一个不断否定外部，不断自我指射的 as absolutely determined being. its indeterminateness is the determinateness of self-reference. 是*unalterable*的。
+- one想向外指射的时候因为根据之前的环节发现自己是自我规定的，从而没办法指射他者，因而又指回自身
+- 在one之中 is nothing, the abstraction of self-reference, as *void* —— the unrecognized other/sublated reality/sublated limit to reassert itself
 
 ### *Repulsion*: Multiplicity of ones & *Attraction*: The otherness of the one which sublates itself into its ideality
+这里有个关键点就是one并不是一个become的过程，不像之前的环节，one在repel了之后不cease to be，所以么有coming-to-be & ceasing-to-be
+
+Many ones:
+- 就是is，is the，is a 。当用is a 来判断时，某物就脱离了他物的规定。比如“一个苹果···”，苹果就不是被他物规定的这个/那个苹果，这样的存在是自为的。但“一个苹果”又不是另一个“一个苹果”，就是“一”与自身的联系由于**内在的否定性也是否定的联系**，所以“一”排斥“一”，产生“多”，然后就有了“量”，而且是可分的量。但是“一”与“一”联系又有自身同一，就是“一个苹果”是“一个苹果”，所以“一”吸引“一”，就是连续的量。
+- 作为一个negative self-relation, the one proves to be what is absolutely incompatible with itself, what repls itself from itself, and what it posits itself as is the *Many*
+- one refuses to recognize its own content——这种否定式的自我关联使得one否定自己否定式的自我关联
+- *repulsion*: This negative reference of the one to itself,同时也是absolute absence of relation in the one is *repulsion*
+- *plurality*: the plurality of the ones is the one’s own positing of the one. One repel itself from itself之后的 Many ones.每一个都是one, 因而self-referencing. Their connecting reference is none/void. 这个void作为他们之间的界限，用来划定他们不应该 be for another. 因此他们作为one，就是无
+- Repulsion是one in itself的externalization/posit
+- The ones are presupposed with respect to each other. 这些ones一开始就在，already is, posited through the repulsion
+- 
+Attraction:
+- The self-positing-in-a-one of the many ones. 通过Repulsion, 似乎many ones are posited, 但是其实这些ones were posited earlier, 所以posit & non-posit. Repulsion isolated the ones thereby unifying them. Repulsion as the ought of ideality, 那么在attraction中realized
+- 所有one中都具备那个negative self-referring, repulsion is itself a refering
+- The sublation of their diversity and externality
+
 
 
 ### Alternating determination of repulsion and attraction in which the two sink into a state of equilibrium —— *quantity*
+
+Repulsion & Attraction:
+- Repulsion as negative self-reference is essentially *connection*. The mutual repulsion is not a liberation from what is repelled. 被repelled的始终与那个repelling的处在repulsioin的connection中. This moment of connection is attraction, the repulsion itself. Each is only itself only through the mediation of the other
+
+**Being-for-itself completed**:
+In connecting itself to itself infinitely, that is, as the posited negation of negation, the one is the mediation by which it repels itself as its absolute (that is, abstract) otherness (the many) from itself, and in thus negatively connecting itself to this, its non-being, it sublates it and is in it precisely only the connection to itself. 
+
+True unity:
+- being, only as affirmative, that is, immediacy self-mediated through the negation of negation: being is posited as a unity permeating its determinacies, limits, etc., which are posited in it as sublated;
+- existence: in this determination it is negation or determinateness as moment of the affirmative being; yet this determinateness is no longer immediate but reflected into itself, refers not to another but to itself; absolutely-determined-being, absolute in-itselfness, the one; otherness as such is itself being-for-itself
+- being-for-itself : as that being which persists across the determinateness and in which the one and even the being- determined-in-itself are posited as sublated. The one is simultaneously determined as having gone beyond itself and as unity; the one, the absolutely determined limit, is consequently posited as a limit which is none, a limit which is in being but is indifferent to it.
+
+
+
+#Quantity
+
+Quantity is the determinateness indifferent to being. A limit which is no limit; being-for-itself which is absolutely identical with being-for-another;the repulsion of the many ones which is immediate non-repulsion
