@@ -26,7 +26,7 @@ Path of Observing Reason
 通过实践公认的习俗法则，1. 彰显individual's essential character——universal & particular nature 2. 而且是in the form of thinghood(实践) 来彰显
 
 
-###关于个体从道德秩序中的撤离 individual vs social-customs/ethical Substance
+### 关于个体从道德秩序中的撤离 individual vs social-customs/ethical Substance
 
 
 理性发现ethical order exists merely as something *given*. 是有局限性的。其中有specificity 和 individuality。原因就是这个阶段的Spirit只是**being**亦即是在自他矛盾之中的。只有当individuality 在与这个universal的运动中resolved itself into its abstract moments的时候，才会觉得这个道德法是至高无上的。然而当individuality从其中沉淀凝结，Isolated on its own, 那Spirit就立即作为一个二分的being。Essence就转移到个体侧了。它想将自身创造为既是这个个别性又是它的存在着的对应象，并想意识到它自己的现实与客观世界的这个统一. Give itself as a particualr individual an actual existence and to enjoy itself as an individual in it.
@@ -48,7 +48,7 @@ Path of Observing Reason
 3. 只有这个自我表现本身才是对象和目的
 
 
-###从Substance中的撤离——世俗的享乐主义，快乐与必然性
+### 从Substance中的撤离——世俗的享乐主义，快乐与必然性
 
 真正的actualilty在这一阶段被认为是actualiity of the individual consciousness. indulge to the pure individuality。 **但并非是自身创造自己的快乐，而是直接取而用之**
 
@@ -80,7 +80,7 @@ Path of Observing Reason
 - 完全对立也就是完全臣服，意识到**必然性是其自身的本质**，外在必然性内化成自己的心律
 
 
-###心律与自大狂
+### 心律与自大狂
 前提概要：世俗的享乐得到的是直接的个体性的实现，直接的满足。直接的满足其导致的是对象和自身的直接统一。这个直接的统一意味着其内部的矛盾，亦即desire与其object的对立。直接的统一性致使个体在寻求自我实现的过程中被否定，自身行动与目的作为原本质翻面，被理解为necessity/fate，从而导致本质的外移。个体享受的对象实则为空虚的统一和分离。个体为了实现自身从而做出的行为，以及得到的经验，会被看做是陌生的，非我的。从抽象的being-for-itself到抽象的being-in-itself。这里是what was for it essence and what is in itself essence的矛盾。自身追求的东西并非真正的in itself essence，两者的合一是直接性的。从而导致了统一过后的陌生感。这个陌生感就是欲望对象的陌生感，非我感，是融合之后被他者否定的陌生感，从而导致行动本质的外移感。
 
 关于这个阶段的必然性：
@@ -120,7 +120,7 @@ Path of Observing Reason
 - It must sacrifice the individuality of consciousness —— Virtue
 
 
-###乱世中的"宁静(宁静下当然也是乱世)"——Virtue and the way of the world 
+### 乱世中的"宁静(宁静下当然也是乱世)"——Virtue and the way of the world 
 前提概要：在实践的理性中，理性的第一种形态，世俗的享乐as pure individuality会面对empty/pure universality, 亦即空的必然性。第二种形态通过心法将必然性，普遍性内在化，可是Law & individuality直接的统一导致内部的撕裂与交替融合。第三种形态是 way of the world 与 Virtue, 也就是universality & individuality之间的相互运动，但呈相反趋势。
 
 virtue：
@@ -173,7 +173,7 @@ being-for-itself 与 being-in-itself 的统一: 个体性的力量、行为给�
 
 
 
-##自在自为地现实的个体性——Individuality which takes itself to be real in and for itself
+## 自在自为地现实的个体性——Individuality which takes itself to be real in and for itself
 前提概要：
 - 在这个阶段之前， End&essence作为individual moments 是与 universal 对立的。**subjective self-certainty 和 objective truth 是对立的。**自我意识认为自己需要直接否定面前的现实才能实现自己的End。End一方面被当做certainty of self and the realization of it as truth。另一方面又被当做truth & reality of certainty
 - 但现在End和intrinsic being本质上就是being-for-an-other and reality。Action本身就是自身的truth and reality，而个体通过action，这个现实性和真理性的统一，就是the End。所以说通过Action，将主客二分统一起来了。It acts provide the subjective certainty of which its aims are the objective truth.
@@ -182,12 +182,12 @@ being-for-itself 与 being-in-itself 的统一: 个体性的力量、行为给�
 
 行动的根本意义旨在于将putting on the shape of individuality。Action alters nothing and opposes nothing. It is the pure form a transition from a state of not being seen to one of being seen.
 
-###	精神的动物王国和欺骗———— the "matter in hand" itself（与生俱来）
+### 精神的动物王国和欺骗———— the "matter in hand" itself（与生俱来）
 上述的这种个体性作为intrinsically real individuality由于**知道自身是the absolute reality——knows it self to be all reality**，也就成为abstract universal reality lacking filling and content。只是范畴的空洞的思想？？？
 
 探究instrinsically real individuality如何自己规定自己
 
-####个体性的概念作为实在的个体性
+#### 个体性的概念作为实在的个体性
 这种知道自身为绝对实在的个体性一开始只是一个*result*,即既定事实, 并未通过运动的呈现方式展开, posited *immediately* as a simple in-itself or implicit being。
 
 这种潜在性就成为了其definte range —— **originally(implicitly) determinate.** 这种limitation/range并非limit the action of consciousness。因为自他矛盾已经被消除了。It is a relation purely of itself to itself. 这种本源的纯粹自我关系是类indeterminate animal life的。
