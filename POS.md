@@ -12,10 +12,10 @@ Path of Observing Reason
 
 因为thinghood和Notion的绝对对立，观察/理论的理性以对象（thing）为目的，self-projectioin Reason into mere object. 由于这种投射与对立, Reason, essentially the Notion, is directly sundered into itself and its opposite. 也就是说越想理性的观察，越为分割，就越是不理性。越是以分割的视角来看，他们潜在的结合就越是不堪入目，就如同崇高的生殖器官与低下的排泄器官的结合。Picture-thinking.
 
-##THE ACTUALIZATION OF RATIONAL SELF-CONSCIOUSNESS THROUGH ITS OWN ACTIVITY 理性的自我意识通过其自身行动而实现
+## THE ACTUALIZATION OF RATIONAL SELF-CONSCIOUSNESS THROUGH ITS OWN ACTIVITY 理性的自我意识通过其自身行动而实现
 
 
-###关于实践道德习俗, immediate unity of individuals
+### 关于实践道德习俗, immediate unity of individuals
 
 观察的理性随着自身发展，也将自身的对象归类转变为: description trough classification to lawlike explanation. 然后到现在的social custom
 
