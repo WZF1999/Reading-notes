@@ -6,6 +6,8 @@
 >>>a. The spiritual animal kingdom and deceit, or "the matter in hand" itself
 >>>b. Reason as lawgiver
 >>>c. Reason as testing laws
+
+
 >SPIRIT (Chapter 6)
 >>A. The true Spirit. The ethical order
 >>>a. The ethical world. Human and Divine Law: Man and Woman
