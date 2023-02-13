@@ -1,6 +1,6 @@
 REASON (Chapter 5)
--B. The actualization of rational self-consciousness through its own activity
---a. Pleasure and Necessity
+- B. The actualization of rational self-consciousness through its own activity
+-- a. Pleasure and Necessity
 		b. The law of the heart and the frenzy of self-conceit c. Virtue and the way of the world
 	C. Individuality which takes itself to be real and for itself
 		a. The spiritual animal kingdom and deceit, or "the matter in hand" itself
